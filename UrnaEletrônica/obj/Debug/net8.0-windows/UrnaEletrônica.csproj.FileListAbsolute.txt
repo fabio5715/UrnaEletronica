@@ -1,0 +1,17 @@
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\bin\Debug\net8.0-windows\UrnaEletrônica.exe
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\bin\Debug\net8.0-windows\UrnaEletrônica.deps.json
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\bin\Debug\net8.0-windows\UrnaEletrônica.runtimeconfig.json
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\bin\Debug\net8.0-windows\UrnaEletrônica.dll
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\bin\Debug\net8.0-windows\UrnaEletrônica.pdb
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.UrnaEletrônica.resources
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.Properties.Resources.resources
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.AssemblyInfo.cs
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.dll
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\refint\UrnaEletrônica.dll
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.pdb
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\UrnaEletrônica.genruntimeconfig.cache
+C:\Users\fabio\source\repos\UrnaEletrônica\UrnaEletrônica\obj\Debug\net8.0-windows\ref\UrnaEletrônica.dll
